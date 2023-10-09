@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8df4619f2993604e9c1dc8075bb124a, type: 3}
+  m_Name: enemy_Triceratops_configurations
+  m_EditorClassIdentifier: 
+  temp: 
+  <updateTargetTime>k__BackingField: 0.6
+  <maxDistance>k__BackingField: 1
+  <maxSightDistance>k__BackingField: 10
+  <deathDuration>k__BackingField: 6
+  temp1: 
+  <damage>k__BackingField: 1
+  <attackRadius>k__BackingField: 10
+  <attackDistance>k__BackingField: 9
+  <attackDuration>k__BackingField: 1.5
+  <stanbyTime>k__BackingField: 1.8
+  <rangeAttackDuration>k__BackingField: 1.2
+  attackPosition: {x: -30.008398, y: 0.013333559, z: 21.029953}
+  temp2: 
+  <fieldOfView>k__BackingField: 75
+  <viewDistance>k__BackingField: 25
+  <runSpeed>k__BackingField: 5.5
+  <rushSpeed>k__BackingField: 10
+  damageReceiverIds:
+  - id: 0
+    damageRate: 1.5
+  - id: 1
+    damageRate: 0.8
+  - id: 2
+    damageRate: 2
+  - id: 3
+    damageRate: 1
+  temp3: amount for Hit Motion
+  <p1>k__BackingField: 100
