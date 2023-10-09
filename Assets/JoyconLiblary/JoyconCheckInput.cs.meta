@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 55d3ffbb80247604c87f3e8f192e4770
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _reconnectMessagePrefab: {fileID: 7185835935521909340, guid: 406bf9f43b0a62a4e82752f64cc225ee,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
