@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/JoyconLiblary/JoyConSample.cs.meta
+guid: 25508e8288e179641a2788cb4ece65c8
+========
+guid: 563c3d551d50d4c45b5ac5d9f83fa822
+>>>>>>>> 0378a044257f98ecec32369c69aee4f39839573b:Assets/Camera/Scripts/CameraShake.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
